@@ -24,8 +24,8 @@ constexpr uint8_t IN4_PIN = 26;
 constexpr uint8_t ENB_PIN = 32;
 
 // Configuración WiFi
-const char* ssid = "Departamento1";
-const char* password = "Alejandro123";
+const char* ssid = "xxxxxxxxx";
+const char* password = "xxxxxxxxxx";
 
 // Variables globales
 AsyncWebServer server(80);
